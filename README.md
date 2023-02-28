@@ -6,7 +6,55 @@ Living tissue realiably self-assemble into complex structures. Key goal-states o
 I'm developing my expertise in this domain by reading and discussing academic publications and experimenting with computational simulations used in such resarch. I'm learning to use BETSE (BioElectric Tissue Simulation Engine), a Python-based ["simulator for 2D computational multiphysics problems in the life sciences – including electrodiffusion, electro-osmosis, galvanotaxis, voltage-gated ion channels, gene regulatory networks, and biochemical reaction networks (e.g., metabolism)."] (https://github.com/betsee/betse)  
   
 # Process Visualization
-Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects.  
+Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects. Below is process map of a recent college programming assignment.  
+```mermaid
+---
+assignment.py
+---
+flowchart LR
+    subgraph "x_tuple_func()"
+    classDef default stroke-width:4px
+    classDef str stroke:#ff0000
+    classDef int stroke:#ffe100
+    classDef list stroke:#30b500
+    classDef tuple stroke:#022b9c
+    classDef dict stroke:#de05f2
+
+    text:::str
+    n_gram_len:::int
+    min_count:::int
+    text -- ".split()" --> word_list:::list
+    word_list -- ".lower().strip()" --> word_tup:::tuple
+    n_gram_len --> tup_list:::list
+    word_tup --> tup_list
+    tup_list --> dict_full:::dict
+    min_count --> dict_full
+    tup_list --> ngram_counts:::list
+    min_count --> ngram_counts
+    ngram_counts --> list_dict:::dict
+    dict_full -- ".append(tup)" --> list_dict
+    dict_full -- ".sort()" --> list_dict
+    list_dict --> return
+    end
+```
+  
+```mermaid
+    flowchart LR
+    subgraph Legend
+    classDef default stroke-width:4px
+    classDef str stroke:#ff0000
+    classDef int stroke:#ffe100
+    classDef list stroke:#30b500
+    classDef tuple stroke:#022b9c
+    classDef dict stroke:#de05f2
+
+    str:::str
+    int:::int
+    list:::list
+    tuple:::tuple
+    dict:::dict
+    end
+```
   
 # Inspiration: Leaders and Ventures
 Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise.  
