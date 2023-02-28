@@ -1,2 +1,3 @@
-# Bioelectrician
-I am currently working towards a BS in Physics at the University of California in Santa Cruz. I am developing my expertise in synthetic biology. Specifically, I am interested in the emerging ability to control developmental outcomes of animals via modulating the activity of cellular ion translocators.
+# Translative Synthetic Biology
+I am synthetic biologist intending to bring emerging technologies to market. I specialize in computational models of information flow in living tissue. This repository documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
+I am currently a Physics undergraduate at the University of California in Santa Cruz.  
