@@ -11,7 +11,7 @@ Along with subject matter knowledge I am also refining key upstream skills such 
 ---
 assignment.py
 ---
-flowchart LR
+flowchart TB
     subgraph "x_tuple_func()"
     classDef default stroke-width:4px
     classDef str stroke:#ff0000
