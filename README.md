@@ -7,18 +7,21 @@ I'm developing my expertise in this domain by reading and discussing academic pu
   
 # Process Visualization
 Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects. Below is process map of a recent college programming assignment.  
+  
 ```mermaid
 ---
-assignment.py
+title: n_grams.py
 ---
-flowchart TB
-    subgraph "x_tuple_func()"
+flowchart LR
+    subgraph "n_grams()"
     classDef default stroke-width:4px
     classDef str stroke:#ff0000
     classDef int stroke:#ffe100
     classDef list stroke:#30b500
     classDef tuple stroke:#022b9c
     classDef dict stroke:#de05f2
+
+    %% This is a comment
 
     text:::str
     n_gram_len:::int
@@ -35,6 +38,18 @@ flowchart TB
     dict_full -- ".append(tup)" --> list_dict
     dict_full -- ".sort()" --> list_dict
     list_dict --> return
+    end
+
+    subgraph "most_frequent_n_grams()"
+    %%text_mf:::str -- "n_grams()" --> n_grams_dict:::dict
+    text_mf:::str --> text
+    min_len:::int -- "loop min" --> for-loop(("for-loop"))
+    max_len:::int -- "loop max" --> for-loop
+    limit:::int
+    return --> for-loop
+    for-loop --> n_grams_dict:::dict
+    %%for-loop <--> text_mf
+    %%return --> text_mf
     end
 ```
   
