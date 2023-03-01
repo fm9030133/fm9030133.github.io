@@ -1,3 +1,5 @@
+- name: render-md-mermaid
+  uses: nielsvaneck/render-md-mermaid@v2
 # Translative Synthetic Biology
 I am synthetic biologist intending to bring emerging technologies to market. I specialize in modeling the flow of information in living tissue. This repository documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
   
@@ -8,12 +10,6 @@ I'm developing my expertise in this domain by reading and discussing academic pu
 # Process Visualization
 Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects. Below is the [process map for a recent college programming assignment.](flow.md)  
    
-![rendered image description](relative/path/to/rendered_image. svg or png )
-<details>
-  <summary>diagram source</summary>
-  This details block is collapsed by default when viewed in GitHub. This hides the mermaid graph definition, while the rendered image
-  linked above is shown. The details tag has to follow the image tag. (newlines allowed)
-
 ```mermaid
 ---
 title: n_grams.py
@@ -58,10 +54,7 @@ flowchart LR
     %%return --> text_mf
     end
 ```
-</details>
   
-![rendered image description](relative/path/to/rendered_image2. svg or png )
-<details>
 ```mermaid
     flowchart LR
     subgraph Legend
@@ -79,7 +72,6 @@ flowchart LR
     dict:::dict
     end
 ```
-</details>
   
 # Medically Relevant Unconventional Computing
 Neural and non-neural electrical activity. Immunology.
