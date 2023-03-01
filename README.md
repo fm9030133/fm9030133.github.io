@@ -71,7 +71,7 @@ flowchart LR
     end
 ```
   
-# Unconventional Computing: Medically Relevant Complex Biological Systems
+# Medically Relevant Unconventional Computing
 Neural and non-neural electrical activity. Immunology.
 
 # Inspiration: Leaders and Ventures
