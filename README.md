@@ -58,7 +58,10 @@ flowchart LR
     %%return --> text_mf
     end
 ```
-</details>  
+</details>
+  
+![rendered image description](relative/path/to/rendered_image2. svg or png )
+<details>
 ```mermaid
     flowchart LR
     subgraph Legend
@@ -76,6 +79,7 @@ flowchart LR
     dict:::dict
     end
 ```
+</details>
   
 # Medically Relevant Unconventional Computing
 Neural and non-neural electrical activity. Immunology.
