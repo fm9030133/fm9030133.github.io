@@ -8,8 +8,8 @@ I'm developing my expertise in this domain by reading and discussing academic pu
 # Process Visualization
 Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects. Below is the [process map for a recent college programming assignment.](flow.md)  
    
-![Mermaid flowchart](gram_flow.png)
-![Mermaid flowchart legend](gram_flow_legend.png)
+![Mermaid flowchart](ngram_flow.png)
+![Mermaid flowchart legend](ngram_flow_legend.png)
 
 # Inspiration: Leaders and Ventures
 Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise.  
