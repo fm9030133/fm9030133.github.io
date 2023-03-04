@@ -1,4 +1,4 @@
-# Translative Biotechnology
+# [Francisco Morales](https://github.com/fm9030133)
 I am a student biophysicist intending to bring emerging technologies to market. My specific interest is in modeling the flow of information in living tissue. This site documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
 
 # [Developing My Expertise in Bioelectricity](betse.md)
