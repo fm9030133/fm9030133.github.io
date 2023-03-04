@@ -1,6 +1,6 @@
 # Translative Biotechnology
 I am a student biophysicist intending to bring emerging technologies to market. My specific interest is in modeling the flow of information in living tissue. This site documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
-
+<span style="background-color:black;"></span>
 # [Developing My Expertise in Bioelectricity](betse.md)
 Living tissue realiably self-assemble into complex structures. Key goal-states of this massively parallel behavior are encoded by intercellular communication as patterned gradients of charge carriers. Growing understanding of this phenomenon is yielding an emerging layer of control to guide large-scale development of animals. (*citations/references pending*)  
 <!--- Include Levin references -->
