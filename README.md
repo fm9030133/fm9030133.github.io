@@ -1,12 +1,12 @@
 # [Francisco Morales](https://github.com/fm9030133)
-I am a student biophysicist intending to bring emerging technologies to market. My specific interest is in modeling the flow of information in living tissue. This site documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
+I am a student biophysicist intending to bring emerging biotechnologies to market. My specific interest is in modeling the information processing that occurs in living systems. This site documents both my project-based journey in developing such an expertise and my innovation brainstorming process. I welcome inquiries for work and collaboration at **fm9030133@gmail.com**
 
 # [Inspiration: Leaders and Ventures](people.md)
-Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise. 
+Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows me to deepen my expertise. 
 
 # Diverse Interests, Unifying Skillset
 *Electricity: The Fundamental Force of Communication.*  
-Of the four fundamental physical forces electromagnetism is the most tractable for information processing across diverse systems. This common modality allows as a bridge between conventional electronics and biological systems.  (*citations/references pending*)  
+Of the four fundamental physical forces electromagnetism is the most tractable for information processing across diverse systems. This common modality allows as a bridge between conventional electronics and biological systems, enabling increasingly effective medical intervention. I believe specializing in this underlying control layer makes me a valuable team member in biomedical ventures.(*citations/references pending*)  
 
 ```mermaid
 flowchart TB
@@ -31,59 +31,14 @@ Living tissue realiably self-assemble into complex structures. Key goal-states o
 <!--- Include Levin references -->
   
 I'm developing my expertise in this domain by reading and discussing academic publications and experimenting with relevant computational simulations. I'm learning to use BETSE (BioElectric Tissue Simulation Engine), a Python-based ["simulator for 2D computational multiphysics problems in the life sciences – including electrodiffusion, electro-osmosis, galvanotaxis, voltage-gated ion channels, gene regulatory networks, and biochemical reaction networks \(e.g., metabolism\)."](https://github.com/betsee/betse)  
-  
-# Process Visualization
-Along with subject matter knowledge I am also refining key upstream skills such as planning and communication of complex processes. I use ["Mermaid, the JavaScript based diagramming and charting tool"](https://mermaid.js.org/) to create insightful process maps for projects. Below is the [process map for a recent college programming assignment.](flow.md)  
-   
-```mermaid
----
-title: n_grams.py
----
-flowchart LR
-    subgraph "n_grams()"
-    classDef default stroke-width:4px
-    classDef str stroke:#ff0000
-    classDef int stroke:#ffe100
-    classDef list stroke:#30b500
-    classDef tuple stroke:#022b9c
-    classDef dict stroke:#de05f2
 
-    %% This is a comment
+# [Data Visualization Portfolio](dataviz.md)
+Along with subject matter knowledge I am also refining my key upstream skills of planning and communication of complex situations. I create insightful, vizually appealing process maps and scientific illustrations. [Click here to see my growing portfolio.](dataviz.md)
 
-    text:::str
-    n_gram_len:::int
-    min_count:::int
-    text -- ".split()" --> word_list:::list
-    word_list -- ".lower().strip()" --> word_tup:::tuple
-    n_gram_len --> tup_list:::list
-    word_tup --> tup_list
-    tup_list --> dict_full:::dict
-    min_count --> dict_full
-    tup_list --> ngram_counts:::list
-    min_count --> ngram_counts
-    ngram_counts --> list_dict:::dict
-    dict_full -- ".append(tup)" --> list_dict
-    dict_full -- ".sort()" --> list_dict
-    list_dict --> return
-    end
+# Tentative Ideas  
 
-    subgraph "most_frequent_n_grams()"
-    %%text_mf:::str -- "n_grams()" --> n_grams_dict:::dict
-    text_mf:::str --> text
-    min_len:::int -- "loop min" --> for-loop(("for-loop"))
-    max_len:::int -- "loop max" --> for-loop
-    limit:::int
-    return --> for-loop
-    for-loop --> n_grams_dict:::dict
-    %%for-loop <--> text_mf
-    %%return --> text_mf
-    end
-    
-    subgraph Legend
-    str:::str
-    int:::int
-    list:::list
-    tuple:::tuple
-    dict:::dict
-    end
-```
+## Upstream Medical Interventions for Functional GastroIntestinal Disorders (FGIDs)
+One way I hope to apply my biophysics skills is in developing treatments for functional gastrointestinal disorders (FGIDs). My life partner's chronic irritable bowel syndrome (IBS) has introduced me to this debilitating and mysterious family of illnesses. Emerging from research on biological information processing are methodologies for top-down control of organ system behavior.  
+"‘Functional disorder’ is an umbrella term for a group of recognisable medical conditions which are due to *changes to the functioning of the systems* of the body *rather than due to a disease affecting the structure of the body*." A tentative implication of this definition is that FGIDs may be effectively treated by understanding the way control systems such as the enteric nervous system (ENS) orchestrate organ behavior at the level of bioelectronic information. Interventions can then be developed that treat functional disorders at the source via intelligent modifications of endogenous electric gradients, thus increasing effectiveness and minimizing side effects.
+(*citations/references pending*) 
+
