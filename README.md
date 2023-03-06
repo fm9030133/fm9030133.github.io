@@ -4,6 +4,28 @@ I am a student biophysicist intending to bring emerging technologies to market. 
 # [Inspiration: Leaders and Ventures](people.md)
 Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise. 
 
+# Diverse Interests, Unifying Skillset
+*Electricity: The Fundamental Force of Communication.*  
+Of the four fundamental physical forces electromagnetism is the most tractable for information processing across diverse systems. This common modality allows as a bridge between conventional electronics and biological systems.  (*citations/references pending*)  
+
+```mermaid
+flowchart TB
+    A("Electromagnetism-based information processing")
+    A --> B("Conventional electronics")
+    %% B <-- Medical intervention --> C
+    B --> B0("Electron-mediated signaling")
+    A --> C("Living systems")
+    C --> D("Ion-mediated signaling")
+    D -- "Fast" --> E("Neuronal networks")
+    %% E <--> F
+    D -- "Slow" --> F("Somatic cell networks")
+    F --> G("Large-scale pattern regulation (hardware fabrication)")
+    G --> G0("Organ, limb regeneration")
+    E --> H("Organ behavior regulation (software implementation)")
+    %% G <--> H
+    H --> I("Functional gastrointestinal disorders")
+```
+
 # [Developing My Expertise in Bioelectricity](reading.md)
 Living tissue realiably self-assemble into complex structures. Key goal-states of this massively parallel behavior are encoded by intercellular communication as patterned gradients of charge carriers. Growing understanding of this phenomenon is yielding an emerging layer of control to guide large-scale development of animals. (*citations/references pending*)  
 <!--- Include Levin references -->
