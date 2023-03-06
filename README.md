@@ -1,7 +1,7 @@
 # [Francisco Morales](https://github.com/fm9030133)
 I am a student biophysicist intending to bring emerging technologies to market. My specific interest is in modeling the flow of information in living tissue. This site documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
 
-# [Inspiration: Leaders and Ventures](betse.md)
+# [Inspiration: Leaders and Ventures](people.md)
 Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise. 
 
 # [Developing My Expertise in Bioelectricity](reading.md)
