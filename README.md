@@ -1,7 +1,10 @@
 # [Francisco Morales](https://github.com/fm9030133)
 I am a student biophysicist intending to bring emerging technologies to market. My specific interest is in modeling the flow of information in living tissue. This site documents my project-based journey in developing such an expertise. I welcome inquiries for work and collaboration.  
 
-# [Developing My Expertise in Bioelectricity](betse.md)
+# [Inspiration: Leaders and Ventures](betse.md)
+Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise. 
+
+# [Developing My Expertise in Bioelectricity](reading.md)
 Living tissue realiably self-assemble into complex structures. Key goal-states of this massively parallel behavior are encoded by intercellular communication as patterned gradients of charge carriers. Growing understanding of this phenomenon is yielding an emerging layer of control to guide large-scale development of animals. (*citations/references pending*)  
 <!--- Include Levin references -->
   
@@ -73,5 +76,4 @@ flowchart LR
     end
 ```
 
-# Inspiration: Leaders and Ventures
-Although I am grateful to the countless contributors to this field there are a handful of individuals whos work I follow closely. Similarly, there are a few startups that I am particularly interested in. Such focus allows for deeper expertise.  
+ 
