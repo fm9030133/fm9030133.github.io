@@ -78,18 +78,8 @@ flowchart LR
     %%for-loop <--> text_mf
     %%return --> text_mf
     end
-```
-  
-```mermaid
-    flowchart LR
+    
     subgraph Legend
-    classDef default stroke-width:4px
-    classDef str stroke:#ff0000
-    classDef int stroke:#ffe100
-    classDef list stroke:#30b500
-    classDef tuple stroke:#022b9c
-    classDef dict stroke:#de05f2
-
     str:::str
     int:::int
     list:::list
@@ -97,5 +87,3 @@ flowchart LR
     dict:::dict
     end
 ```
-
- 
