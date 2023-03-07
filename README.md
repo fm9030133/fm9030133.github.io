@@ -36,9 +36,11 @@ I'm developing my expertise in this domain by reading and discussing academic pu
 Along with subject matter knowledge I am also refining my key upstream skills of planning and communication of complex situations. I create insightful, vizually appealing process maps and scientific illustrations. [Click here to see my growing portfolio.](dataviz.md)
 
 # Tentative Ideas  
-
 ## Upstream Medical Interventions for Functional GastroIntestinal Disorders (FGIDs)
 One way I hope to apply my biophysics skills is in developing treatments for functional gastrointestinal disorders (FGIDs). My life partner's chronic irritable bowel syndrome (IBS) has introduced me to this debilitating and mysterious family of illnesses. Emerging from research on biological information processing are methodologies for top-down control of organ system behavior.  
 "‘Functional disorder’ is an umbrella term for a group of recognisable medical conditions which are due to *changes to the functioning of the systems* of the body *rather than due to a disease affecting the structure of the body*." A tentative implication of this definition is that FGIDs may be effectively treated by understanding the way control systems such as the enteric nervous system (ENS) orchestrate organ behavior at the level of bioelectronic information. Interventions can then be developed that treat functional disorders at the source via intelligent modifications of endogenous electric gradients, thus increasing effectiveness and minimizing side effects.
 (*citations/references pending*) 
 
+## Computer-Aided Mapping of Patient-Specific Accupuncture Meridian States
+Clinical data support the efficacy of accupunture as practiced in traditional Chinese medicine (TCM). Such data also implicate several physical variables as correalates to the TCM meridian system.  
+Such a system may allow for at-home accupuncture using devices that accurately locate accupuncture points for whole-body-informed diagnosis and prescribe accurate placement and duration of needles for treatment. 
